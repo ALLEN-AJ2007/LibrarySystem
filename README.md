@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040017
+# Name:ALLEN PRAKASH J
+# Date:20/11/2026
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1237" height="925" alt="Screenshot 2026-10-16 144002" src="https://github.com/user-attachments/assets/fdf07064-2660-49e9-80e9-326ec017f7fc" />
 
 
 
@@ -66,6 +67,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1916" height="1001" alt="Screenshot 2026-10-30 141439" src="https://github.com/user-attachments/assets/90013f02-f699-47c9-87b0-5b433acafa41" />
 
 
 
@@ -78,6 +80,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="1917" height="1015" alt="Screenshot 2026-11-04 133722" src="https://github.com/user-attachments/assets/dd715280-e505-44c5-8a24-ca804796b926" />
 
 
 
@@ -96,6 +99,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="1901" height="1030" alt="Screenshot 2026-10-21 113643" src="https://github.com/user-attachments/assets/7d97cbe6-7c22-47c2-ba80-93e36a7def74" />
 
 
 
@@ -117,6 +121,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="1917" height="1017" alt="Screenshot 2026-11-03 110330" src="https://github.com/user-attachments/assets/f7a156b9-456e-4f4d-87f5-2c5b0b3ea5cc" />
 
 
 
