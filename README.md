@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 
 <img width="1237" height="925" alt="Screenshot 2026-10-16 144002" src="https://github.com/user-attachments/assets/fdf07064-2660-49e9-80e9-326ec017f7fc" />
 
+<img width="1177" height="742" alt="636787178-1493dfb1-893f-4f4c-a2d2-408009cb84b6" src="https://github.com/user-attachments/assets/2aa82d41-085a-42f0-a1bf-c471802e3a79" />
 
 
 
